@@ -1,0 +1,100 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Sans-serif;
+	font-size: 14;
+}
+
+main {
+	margin: 0 auto;
+	width: 1400px;
+}
+
+header {
+	background-color: pink;
+	padding: 5px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+header h1 {
+	font-size: 50;
+	color: #fae1ee;
+}
+
+img {
+	width: 150px;
+	height: 150px;
+}
+
+.cite {
+	background-color: #FAF0E6;
+	color: #ea66f5;
+	padding: 20px;
+}
+
+.wishes {
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: 20px;
+	padding-left: 70px;
+	padding-right: 10px;
+}
+
+.wish {
+	display: flex;
+	flex-wrap: wrap;
+}
+.wish2 {
+	margin-left: 150px;
+}
+
+.cite .poo {
+	margin-left: 610px;
+}
+
+.paa {
+	display: flex;
+	flex-direction: column;
+	color: black;
+	margin-left: 10px;
+}
+
+.paa h1 {
+	font-size: 20;
+}
+
+a {
+	text-decoration: none;
+	margin-top: 10px;
+	width: 150px;
+	height: 20px;
+	background-color: #f392f6;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: #fae1ee;
+	border-radius: 20px;
+}
+
+p {
+	color: #87CEFA;
+	margin-top: 10px;
+}
+
+footer {
+	background-color: pink;
+	padding: 5px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+footer h1 {
+	font-size: 50;
+	color: #fae1ee;
+}
